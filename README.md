@@ -1,1 +1,1 @@
-# Data-Analytics-Projects
+# Bharat Intern Projects
